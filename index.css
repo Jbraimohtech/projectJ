@@ -1,0 +1,128 @@
+/* my logo */
+.logo {
+    width: 20px;
+    margin: 10px;
+}
+
+
+/* this is the space in the first li */
+.spaceX {
+    padding-left: 100px;
+}
+
+/* this is the h1 in the main section  */
+.firstTopic {
+    margin-bottom: 50px;
+    font-size: 50px;
+    margin-top: 0;
+}
+
+/*this is the paragraph in the main section */
+.theText {
+    margin-bottom: 30px;
+}
+
+/* this is below logo section */
+.belowLogo {
+    margin-top: 50px;
+}
+
+.serviceLog {
+    background-color: #B6E62F;
+    width: fit-content;
+    border-radius: 3px;
+    text-align: center;
+    margin-right: 30px;
+}
+
+/* container of divers logos */
+
+.containLogo {
+    width: 100px; 
+}
+
+.SpaceLogoCon {
+    margin-top: 100px;
+}
+
+/* mycard design which is below divers logos */
+
+.myCard {
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+.moveA {
+    float: left;
+}
+
+.moveB{
+    float: right;
+    padding-top: 20px;
+}
+
+.cardBorder {
+    border-radius: 20px;
+}
+
+
+.cardTitleSpace {
+    margin-bottom: 80px;
+}
+
+.cardTitleColor {
+    background-color: #B6E62F;
+    width: fit-content;
+    border-radius: 5px;
+}
+
+.cardTitleColor1 {
+    background-color: #ffffff;
+    width: fit-content;
+    border-radius: 5px;
+}
+
+
+/* The section after my cards */
+
+.imgDisplay {
+    width: 250px;
+    height: 150px;
+}
+
+.grayBg {
+    background-color: rgb(235, 235, 235);
+    border-radius: 20px;
+    margin-top: 100px;
+    padding-left: 50px;
+    padding-bottom: 50px;
+    margin-bottom: 50px;
+}
+
+
+/* case study design */
+.caseLog {
+    background-color: #B6E62F;
+    width: fit-content;
+    border-radius: 3px;
+    text-align: center;
+    margin-right: 30px;
+}
+
+/* footer design */
+.footerB {
+    background-color: black;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 50px;
+    border-radius: 20px;
+}
+
+.vertical {
+   margin-bottom: 10px;
+}
+
+
+.theColor {
+    color: #B6E62F;
+}
